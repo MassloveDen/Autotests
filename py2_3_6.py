@@ -7,7 +7,7 @@ import math
 def calc(x):
     return str(math.log(abs(12*math.sin(int(x)))))
 
-
+#123
 try:
     # 1. Открыть страницу по URL.
     link = "http://suninjuly.github.io/redirect_accept.html"
